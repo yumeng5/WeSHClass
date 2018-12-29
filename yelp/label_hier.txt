@@ -1,0 +1,4 @@
+ROOT	positive	neutral	negative
+positive	great	good
+neutral	average
+negative	bad	terrible

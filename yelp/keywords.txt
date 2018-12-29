@@ -1,0 +1,8 @@
+positive	best delicious fantastic nice pretty fresh
+neutral	little small average
+negative	bad disappointed wrong worst horrible terrible
+great	best delicious fantastic
+good	nice pretty fresh
+average	little small average
+bad	bad disappointed wrong
+terrible	worst horrible terrible

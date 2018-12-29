@@ -1,0 +1,4 @@
+ROOT	math	physics	cs
+math	math.NA	math.AG	math.FA	math.NT	math.CV	math.AP	math.GM	math.OC	math.ST	math.PR	math.DG	math.CO	math.OA	math.RT	math.CA	math.DS	math.GR	math.QA	math.LO	math.RA	math.SG	math.AT	math.AC	math.GT	math.MG
+physics	physics.optics	physics.flu-dyn	physics.atom-ph	physics.ins-det	physics.acc-ph	physics.gen-ph	physics.plasm-ph	physics.chem-ph	physics.soc-ph	physics.class-ph
+cs	cs.CV	cs.GT	cs.IT	cs.AI	cs.DC	cs.CL	cs.NI	cs.SE	cs.CC	cs.CR	cs.LG	cs.LO	cs.SY	cs.CY	cs.DS	cs.PL	cs.OH	cs.DB

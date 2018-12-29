@@ -1,0 +1,5 @@
+sports	0 2 4 5 6
+science	1 27 75
+arts	3 8 10 11
+politics	44 147 216
+business	209 219 222
