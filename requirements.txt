@@ -1,0 +1,7 @@
+numpy
+nltk
+pickle
+gensim
+sklearn
+keras
+spherecluster
