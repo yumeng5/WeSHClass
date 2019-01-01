@@ -67,4 +67,11 @@ Please cite the following papers if you find the code helpful for your research.
   year={2018},
   organization={ACM}
 }
+
+@article{meng2018weakly,
+  title={Weakly-Supervised Hierarchical Text Classification},
+  author={Meng, Yu and Shen, Jiaming and Zhang, Chao and Han, Jiawei},
+  journal={arXiv preprint arXiv:1812.11270},
+  year={2018}
+}
 ```
