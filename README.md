@@ -68,10 +68,12 @@ Please cite the following papers if you find the code helpful for your research.
   organization={ACM}
 }
 
-@article{meng2018weakly,
-  title={Weakly-Supervised Hierarchical Text Classification},
+@inproceedings{meng2019weakly,
+  title={Weakly-supervised hierarchical text classification},
   author={Meng, Yu and Shen, Jiaming and Zhang, Chao and Han, Jiawei},
-  journal={arXiv preprint arXiv:1812.11270},
-  year={2018}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  pages={6826--6833},
+  year={2019}
 }
 ```
