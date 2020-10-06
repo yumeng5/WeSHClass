@@ -10,6 +10,12 @@ Before running, you need to first install the required packages by typing follow
 $ pip3 install -r requirements.txt
 ```
 
+Also, be sure to download `'punkt'` in python:
+```
+import nltk
+nltk.download('punkt')
+```
+
 ## Quick Start
 
 ```
