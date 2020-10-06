@@ -1,6 +1,7 @@
-numpy
-nltk
-gensim
-sklearn
-keras
-spherecluster
+numpy~=1.19.1
+nltk~=3.5
+gensim~=3.8.3
+sklearn==0.22 #ImportError: cannot import name '_k_means' from 'sklearn.cluster' in 0.23
+Keras~=2.4.3
+tensorflow~=2.3.1
+spherecluster~=0.1.7
